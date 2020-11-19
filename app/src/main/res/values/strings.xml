@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">JBZD</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="toolbar_prefix">JBZD</string>
+    <string name="nav_open_drawer">Otwórz szufladę nawigacyjną</string>
+    <string name="nav_close_drawer">Zamknij szufladę nawigacyjną</string>
+
+    <string name="article_loading_title"></string>
+    <string name="article_loading_pluses"></string>
+    <string name="article_loading_comments"></string>
+    <string name="article_pluses_alt">Plusy</string>
+    <string name="article_comments_alt">Komentarze</string>
+    <string name="article_more_alt">Więcej</string>
+</resources>

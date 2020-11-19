@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="article_title_font_size">20sp</dimen>
+    <dimen name="article_desc_indent">10dp</dimen>
+    <dimen name="article_desc_top_space">5dp</dimen>
+    <dimen name="article_desc_text_size">16sp</dimen>
+    <dimen name="article_margin">40dp</dimen>
+    <dimen name="article_corners_radius">0dp</dimen>
+    <dimen name="article_header_padding_vertical">7dp</dimen>
+    <dimen name="article_header_padding_horizontal">5dp</dimen>
+    <dimen name="article_footer_padding_vertical">3dp</dimen>
+    <dimen name="article_footer_padding_horizontal">5dp</dimen>
+    <dimen name="article_footer_font_size">20sp</dimen>
+    <dimen name="article_footer_label_distance">5dp</dimen>
+    <dimen name="article_footer_space_size">30dp</dimen>
+
+    <dimen name="drawer_width">250dp</dimen>
+</resources>
